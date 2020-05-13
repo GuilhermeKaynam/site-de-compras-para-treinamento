@@ -1,0 +1,104 @@
+{
+	"products" : [
+		{
+			"name" : "Capinha de silicone Iphone x",
+			"price" : "29.99",
+			"options" : [
+				{ "Tamanho" : "Unico" },
+				{ "Cor" : "Azul Bebe,Vermelho, Branco" }
+			],
+			"image" : "https://images-americanas.b2w.io/produtos/01/00/oferta/68696/4/68696413_1GG.jpg",
+			"description" : "Capinha Protetora de silicone para iphone x, diversas cores"
+		},
+
+		{
+			"name" : "Capinha de silicone Iphone xr",
+			"price" : "35.99",
+			"options" : [
+				{ "Tamanho" : "Unico" },
+				{ "Cor" : "Preto,Vermelho, Branco" }
+			],
+			"image" : "https://static3.tcdn.com.br/img/img_prod/670412/capa_para_celular_baseus_original_lsr_para_iphone_xr_preto_2153_1_20190416165736.jpg",
+			"description" : "Capinha Protetora de silicone para iphone xr, diversas cores"
+		},
+		
+		{
+			"name" : "capinha de silicone iphone 11",
+			"price" : "39.99",
+			"options" : [
+				{ "Tamanho" : "Unico" },
+				{ "Cor" : "lilas,Preto,Branco" },
+			    { "OneOfAKind" : true }
+			],
+			"image" : "https://images-na.ssl-images-amazon.com/images/I/51iIG0VW93L._AC_SX466_.jpg",
+			"description" : "Capinha Protetora de silicone para iphone 11, diversas cores"
+		},
+		{
+			"name" : "Capinha de silicone Iphone x",
+			"price" : "29.99",
+			"options" : [
+				{ "Tamanho" : "Unico" },
+				{ "Cor" : "Azul Bebe,Vermelho, Branco" }
+			],
+			"image" : "https://images-americanas.b2w.io/produtos/01/00/oferta/68696/4/68696413_1GG.jpg",
+			"description" : "Capinha Protetora de silicone para iphone x, diversas cores"
+		},
+
+		{
+			"name" : "Capinha de silicone Iphone xr",
+			"price" : "35.99",
+			"options" : [
+				{ "Tamanho" : "Unico" },
+				{ "Cor" : "Preto,Vermelho, Branco" }
+			],
+			"image" : "https://static3.tcdn.com.br/img/img_prod/670412/capa_para_celular_baseus_original_lsr_para_iphone_xr_preto_2153_1_20190416165736.jpg",
+			"description" : "Capinha Protetora de silicone para iphone xr, diversas cores"
+		},
+		
+		{
+			"name" : "capinha de silicone iphone 11",
+			"price" : "39.99",
+			"options" : [
+				{ "Tamanho" : "Unico" },
+				{ "Cor" : "lilas,Preto,Branco" },
+			    { "OneOfAKind" : true }
+			],
+			"image" : "https://images-na.ssl-images-amazon.com/images/I/51iIG0VW93L._AC_SX466_.jpg",
+			"description" : "Capinha Protetora de silicone para iphone 11, diversas cores"
+		},
+		{
+			"name" : "Capinha de silicone Iphone x",
+			"price" : "29.99",
+			"options" : [
+				{ "Tamanho" : "Unico" },
+				{ "Cor" : "Azul Bebe,Vermelho, Branco" }
+			],
+			"image" : "https://images-americanas.b2w.io/produtos/01/00/oferta/68696/4/68696413_1GG.jpg",
+			"description" : "Capinha Protetora de silicone para iphone x, diversas cores"
+		},
+
+		{
+			"name" : "Capinha de silicone Iphone xr",
+			"price" : "35.99",
+			"options" : [
+				{ "Tamanho" : "Unico" },
+				{ "Cor" : "Preto,Vermelho, Branco" }
+			],
+			"image" : "https://static3.tcdn.com.br/img/img_prod/670412/capa_para_celular_baseus_original_lsr_para_iphone_xr_preto_2153_1_20190416165736.jpg",
+			"description" : "Capinha Protetora de silicone para iphone xr, diversas cores"
+		},
+		
+		{
+			"name" : "capinha de silicone iphone 11",
+			"price" : "39.99",
+			"options" : [
+				{ "Tamanho" : "Unico" },
+				{ "Cor" : "lilas,Preto,Branco" },
+			    { "OneOfAKind" : true }
+			],
+			"image" : "https://images-na.ssl-images-amazon.com/images/I/51iIG0VW93L._AC_SX466_.jpg",
+			"description" : "Capinha Protetora de silicone para iphone 11, diversas cores"
+		}
+		
+	]
+}
